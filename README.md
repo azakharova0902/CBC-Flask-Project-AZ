@@ -37,7 +37,7 @@ Our database functionality has been tested with mock data to ensure that proper 
 
 To open the project locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/azakharova0902/Flask-Blog-Post-App.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
-Additionally, the project was deployed on Heroku to enable testing and review.
+Additionally, the project was deployed on Heroku to enable testing and review https://cbc-flask-project-az.herokuapp.com/
 
 <hr>
 
